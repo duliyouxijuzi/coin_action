@@ -1,0 +1,8 @@
+﻿python 版本 3.10
+包1 pip install python_okx
+包2 pip install peewee
+
+一种直接pip安装
+一种通过requirements.txt
+
+python model_manager.py 运行
